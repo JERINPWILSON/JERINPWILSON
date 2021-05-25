@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JERINPWILSON
 - 👀 I’m interested in Developing Web apps, Mobile apps, and Video Games
-- 🌱 I’m currently learning Flutter, Codigniter and Android Studio
+- 🌱 I’m currently learning Flutter, Codigniter, Android Studio, and Unity Game Engine
 - 💞️ I’m looking to collaborate on Flutter Apps
 - 📫 How to reach me - jerinpwilson000@gmail.com
 
